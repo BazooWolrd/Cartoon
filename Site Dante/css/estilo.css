@@ -1,0 +1,88 @@
+body{
+	margin: 0;
+	padding: 0;
+	background-color: black;
+}
+.ger{
+	text-align: center;
+	font-weight: bold;
+	font-size: 3em;
+	color: orange;
+
+}
+.title{
+	color: gray;
+	margin-left: 2%;
+	text-align: center;
+
+}
+.left{
+	width: 25%;
+	border: 1px solid yellow;
+	float: left;
+
+}
+.img1{
+	margin-left: 30%;
+	width: 50%;
+}
+
+hr{
+	color: blue;
+}
+figure{
+	float: left;
+	margin-left: 4%;
+	color: white;
+	width: 20%;
+}
+hr{
+	clear: both;
+}
+.fodao{
+	float: right;
+	border: 1px solid yellow;
+	width: 50%;
+	height: 800px;
+	margin-right: 5%;
+}
+.fodase{
+	float: left;
+	margin-left: 11.5%;
+	color: white;
+	width: 20%;
+}
+#titulo{
+	width: 100%;
+	background-color: #282828;
+	margin:0;
+}
+h2{
+	text-align: center;
+	font-weight: bold;
+	color: orange;
+	margin-top: 0px;
+	color: #7b7c7d;
+	padding: 20px 0px;
+	}
+.gyu{
+	color: white;
+	text-align: center;
+}
+.desenho{
+	width: 50%;
+	margin-left: 25%;
+	border: 2px solid white;
+	height: 600px;
+
+}
+.piru{
+	font-weight: bold;
+	text-align: center;
+	color: orange;
+	font-size: 36pt;
+
+}
+.video{
+margin-left: 10%;
+}
