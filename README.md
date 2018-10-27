@@ -1,6 +1,2 @@
 # Cartoon
-O meu *projeto* tem o **objetivo** de ap
-1. Fazer bla bla bla
-2. alaa
-
-## Paleta de cores
+O meu *projeto* **público** tem o **objetivo** de apresentar os desenhos mais populares na década de 2000, onde o usuário escolherá e verá um episódio aleatório do escolhido, além de sua descrição, como sinopse, data de lançamento e total de episódios. Apesar de focar nos desenhos dessa época, também haverá uma sessão de menções honrosas, onde mostrará desenhos populares nessa época, mas que são mais antigos.
